@@ -39,7 +39,6 @@ while True:
                                 subject = msg[1]
                                 from_who = msg[2]
                                 from_who = from_who.split()
-                                lcd.clear()
                                 print (from_who[0] + " " + from_who[1] + "\n")
                                 time.sleep(2)
                                 print(subject)
