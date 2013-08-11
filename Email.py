@@ -52,5 +52,3 @@ while True:
                                 print(subject + "\n")
                                 time.sleep(2)
         update = False
-
-        #time.sleep(1)
